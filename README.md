@@ -1,6 +1,6 @@
-# todo
+# To-Do App using Flutter
 
-A new Flutter project.
+A new To-Do app with production ready configurations.
 
 ## Getting Started
 
