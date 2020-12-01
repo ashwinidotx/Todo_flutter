@@ -1,6 +1,6 @@
 # To-Do App using Flutter
 
-A new To-Do app with production ready configurations.
+A new To-Do app with production ready configurations..
 
 
 ## Resources..
